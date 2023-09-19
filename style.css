@@ -60,6 +60,7 @@ table{
     height: 110%;
     border: 10px solid black;
     margin-top: 50px;
+    margin: 0;
     display: flex;
     flex-wrap: wrap;
     position: absolute;
@@ -78,5 +79,9 @@ table{
     background-color: rgb(135, 180, 12);
     width: 30%;
     height: 80px;
-    position: relative;
+ }
+ .box-w{
+    background-color: white;
+    width: 30%;
+    height: 80px;
  }
